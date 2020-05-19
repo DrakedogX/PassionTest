@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196313862913",
+    "firebase_url": "https://passiontest-cfc5a.firebaseio.com",
+    "project_id": "passiontest-cfc5a",
+    "storage_bucket": "passiontest-cfc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196313862913:android:4c404f2663236509884100",
+        "android_client_info": {
+          "package_name": "com.passion.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196313862913-hsmd70faabkdgjnb1e22csdcn026uo2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.passion.chatapp",
+            "certificate_hash": "185112e71a8b2975b4ff31b4f6d992eeb1114070"
+          }
+        },
+        {
+          "client_id": "196313862913-a85jnh6dch9bp1s7aaev463anmvn6mj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2549Hm5dpx1DMLBKI6Da-WUIA6Fuvj6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196313862913-a85jnh6dch9bp1s7aaev463anmvn6mj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

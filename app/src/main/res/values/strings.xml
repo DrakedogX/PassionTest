@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Passion Test</string>
+    <string name="facebook_app_id">2922093611409389</string>
+    <string name="fb_login_protocol_scheme">fb2922093611409389</string>
+    <string name="login_email_edit_text_hint">이메일을 입력해주세요.</string>
+    <string name="login_password_edit_text_hint">비밀번호를 입력해주세요.</string>
+    <string name="enter_your_user_name">유저명을 입력해주세요.</string>
+    <string name="new_user">새로운 유저라면 -></string>
+    <string name="sign_up">회원가입</string>
+    <string name="login">로그인</string>
+    <string name="register">회원가입</string>
+    <string name="social_login">소셜 로그인</string>
+    <string name="wrong_email_format">올바르지 않은 이메일 포맷입니다.</string>
+    <string name="password_size">패스워드는 6자리 이상이어야 합니다.</string>
+    <string name="settings">설정</string>
+    <string name="logout">로그아웃</string>
+    <string name="add_friend">친구 추가</string>
+    <string name="search">검색</string>
+    <string name="about_me">내용</string>
+    <string name="edit">수정</string>
+    <string name="friends">친구</string>
+    <string name="select_profile_picture">프로필 사진 선택</string>
+    <string name="take_new_profile_picture">새로운 프로필 사진 찍기</string>
+    <string name="uploading">업로드 중...</string>
+    <string name="type_something_to_let_your_friends_know_you_better">친구에게 더 자신을 알릴 수 있는 내용을 입력하여 주세요.</string>
+    <string name="submit">전송</string>
+    <string name="cancel_request">요청 취소</string>
+    <string name="friend_request_not_sent">친구 요청 보내기</string>
+    <string name="confirm">확인</string>
+    <string name="delete">삭제</string>
+    <string name="incoming_requests">요청이 도착했습니다.</string>
+    <string name="no_incoming_requests">도착한 요청이 없습니다.</string>
+    <string name="no_friends_yet">아직 친구가 없습니다.</string>
+    <string name="find_friends">새로운 친구 찾기</string>
+    <string name="profile">프로필</string>
+    <string name="no_chat_history_yet_click_chat_button_to_start_chatting">채팅 내역이 없습니다. 버튼을 터치하여 채팅을 시작하세요.</string>
+    <string name="no_one_to_chat_with_yet_add_more_friend_to_get_going">채팅 내역이 없습니다. 친구를 추가하러 지금 목록을 검색하세요.</string>
+    <string name="type_a_message">메시지 입력</string>
+    <string name="empty_message">메시지 내용을 입력하세요.</string>
+
+    <string name="you">You: %1$s</string>
+    <string name="other">%1$s: %2$s</string>
+    <string name="other_image">%1$s 이미지를 보냈습니다.</string>
+    <string name="other_file">%1$s 파일을 보냈습니다.</string>
+    <string name="no_users_to_add_yet">아직 아무 유저도 추가하지 않았습니다.</string>
+    <string name="you_sent_image">이미지를 보냈습니다.</string>
+    <string name="send_file">파일을 보냈습니다.</string>
+    <string name="send_picture">이미지를 보냈습니다.</string>
+    <string name="you_sent_file">파일을 보냈습니다.</string>
+    <string name="you_sent_record">녹음된 파일을 보냈습니다.</string>
+    <string name="other_record">%1$s 녹음된 파일을 보냈습니다.</string>
+    <string name="delete_from_friends">친구 삭제</string>
+    <string name="no_friends">해당 유저는 친구가 아직 없습니다.</string>
+
+</resources>
