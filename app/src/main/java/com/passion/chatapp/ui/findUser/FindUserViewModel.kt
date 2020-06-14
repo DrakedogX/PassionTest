@@ -3,8 +3,8 @@ package com.passion.chatapp.ui.findUser
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.FirestoreUtil
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.FirestoreUtil
 import com.passion.chatapp.data.model.User
 import com.passion.chatapp.ui.incoming_requests.FRIENDS
 import com.google.firebase.firestore.EventListener

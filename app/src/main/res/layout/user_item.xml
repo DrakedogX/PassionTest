@@ -56,7 +56,7 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toEndOf="@+id/userImageView"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="Amr mohammed " />
+            tools:text="JoJo Lee " />
 
 
         <TextView

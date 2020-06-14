@@ -18,9 +18,9 @@ import androidx.navigation.ui.setupWithNavController
 import com.facebook.CallbackManager
 import com.google.android.material.snackbar.Snackbar
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.eventbus_events.CallbackManagerEvent
-import com.passion.chatapp.Utils.eventbus_events.ConnectionChangeEvent
-import com.passion.chatapp.Utils.eventbus_events.KeyboardEvent
+import com.passion.chatapp.utils.eventbus_events.CallbackManagerEvent
+import com.passion.chatapp.utils.eventbus_events.ConnectionChangeEvent
+import com.passion.chatapp.utils.eventbus_events.KeyboardEvent
 import com.passion.chatapp.databinding.ActivityMainBinding
 import com.passion.chatapp.ui.main_activity.SharedViewModel
 import org.greenrobot.eventbus.EventBus

@@ -41,11 +41,11 @@ import com.karumi.dexter.listener.PermissionDeniedResponse
 import com.karumi.dexter.listener.PermissionGrantedResponse
 import com.karumi.dexter.listener.single.PermissionListener
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.CLICKED_USER
-import com.passion.chatapp.Utils.LOGGED_USER
-import com.passion.chatapp.Utils.eventbus_events.PermissionEvent
-import com.passion.chatapp.Utils.eventbus_events.UpdateRecycleItemEvent
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.CLICKED_USER
+import com.passion.chatapp.utils.LOGGED_USER
+import com.passion.chatapp.utils.eventbus_events.PermissionEvent
+import com.passion.chatapp.utils.eventbus_events.UpdateRecycleItemEvent
 import com.passion.chatapp.data.model.*
 import com.passion.chatapp.databinding.ChatFragmentBinding
 import com.stfalcon.imageviewer.StfalconImageViewer

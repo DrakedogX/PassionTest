@@ -15,11 +15,11 @@ import androidx.navigation.findNavController
 import androidx.navigation.fragment.findNavController
 import com.google.android.material.textfield.TextInputEditText
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.ErrorMessage
-import com.passion.chatapp.Utils.LoadState
-import com.passion.chatapp.Utils.eventbus_events.KeyboardEvent
 import com.passion.chatapp.databinding.LoginFragmentBinding
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.ErrorMessage
+import com.passion.chatapp.utils.LoadState
+import com.passion.chatapp.utils.eventbus_events.KeyboardEvent
 import kotlinx.android.synthetic.main.issue_layout.view.*
 import org.greenrobot.eventbus.EventBus
 
@@ -58,7 +58,7 @@ class LoginFragment : Fragment() {
 
         binding.emailEditText.afterTextChanged { email ->
             viewModel.isEmailFormatCorrect(email).observe(this, Observer { isEmailFormatCorrect ->
-                if (!isEmailFormatCorrect) {//email format is not correct
+                if (!isEmailFormatCorrect) {
                     binding.email.error = getString(R.string.wrong_email_format)
                 } else {
                     binding.email.isErrorEnabled = false

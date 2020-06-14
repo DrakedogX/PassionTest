@@ -7,7 +7,7 @@ import android.net.Network
 import android.net.NetworkCapabilities
 import android.net.NetworkRequest
 import android.os.Bundle
-import com.passion.chatapp.Utils.eventbus_events.ConnectionChangeEvent
+import com.passion.chatapp.utils.eventbus_events.ConnectionChangeEvent
 import org.greenrobot.eventbus.EventBus
 
 

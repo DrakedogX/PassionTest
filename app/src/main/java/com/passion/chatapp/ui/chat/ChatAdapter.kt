@@ -28,8 +28,8 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.eventbus_events.UpdateRecycleItemEvent
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.eventbus_events.UpdateRecycleItemEvent
 import com.passion.chatapp.data.model.*
 import com.passion.chatapp.databinding.*
 import org.greenrobot.eventbus.EventBus

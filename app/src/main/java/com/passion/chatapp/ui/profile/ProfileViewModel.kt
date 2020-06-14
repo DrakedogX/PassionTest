@@ -6,7 +6,7 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
 import com.google.firebase.firestore.DocumentReference
 import com.google.firebase.storage.StorageReference
-import com.passion.chatapp.Utils.*
+import com.passion.chatapp.utils.*
 import java.util.*
 
 

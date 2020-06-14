@@ -13,7 +13,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.google.gson.Gson
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.LOGGED_USER
+import com.passion.chatapp.utils.LOGGED_USER
 import com.passion.chatapp.data.model.User
 import com.passion.chatapp.databinding.IncomingRequestsFragmentBinding
 

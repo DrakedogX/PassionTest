@@ -10,7 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.findNavController
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.CLICKED_USER
+import com.passion.chatapp.utils.CLICKED_USER
 import com.passion.chatapp.databinding.FindUserFragmentBinding
 import com.google.gson.Gson
 

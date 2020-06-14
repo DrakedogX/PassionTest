@@ -1,4 +1,4 @@
-package com.passion.chatapp.Utils.eventbus_events
+package com.passion.chatapp.utils.eventbus_events
 
 import com.facebook.CallbackManager
 

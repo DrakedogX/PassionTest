@@ -15,9 +15,9 @@ import com.facebook.FacebookException
 import com.facebook.login.LoginBehavior
 import com.facebook.login.LoginResult
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.ErrorMessage
-import com.passion.chatapp.Utils.eventbus_events.CallbackManagerEvent
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.ErrorMessage
+import com.passion.chatapp.utils.eventbus_events.CallbackManagerEvent
 import com.passion.chatapp.databinding.FacebookLoginFragmentBinding
 import com.passion.chatapp.ui.main_activity.SharedViewModel
 import org.greenrobot.eventbus.EventBus

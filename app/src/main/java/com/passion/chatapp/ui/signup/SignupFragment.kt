@@ -11,10 +11,10 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.findNavController
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.ErrorMessage
-import com.passion.chatapp.Utils.LoadState
-import com.passion.chatapp.Utils.eventbus_events.KeyboardEvent
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.ErrorMessage
+import com.passion.chatapp.utils.LoadState
+import com.passion.chatapp.utils.eventbus_events.KeyboardEvent
 import com.passion.chatapp.databinding.SignupFragmentBinding
 import kotlinx.android.synthetic.main.issue_layout.view.*
 import org.greenrobot.eventbus.EventBus

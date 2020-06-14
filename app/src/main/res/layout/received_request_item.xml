@@ -40,7 +40,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/profileImageView"
             app:layout_constraintTop_toTopOf="@+id/profileImageView"
-            tools:text="Amr mohammed" />
+            tools:text="JoJo Lee" />
 
         <Button
             android:id="@+id/confirmButton"

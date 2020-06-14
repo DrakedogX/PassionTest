@@ -3,8 +3,8 @@ package com.passion.chatapp.ui.login
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.passion.chatapp.Utils.ErrorMessage
-import com.passion.chatapp.Utils.LoadState
+import com.passion.chatapp.utils.ErrorMessage
+import com.passion.chatapp.utils.LoadState
 import com.google.firebase.auth.FirebaseAuth
 import java.util.regex.Matcher
 import java.util.regex.Pattern

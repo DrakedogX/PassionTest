@@ -96,7 +96,7 @@
                         app:layout_constraintHorizontal_bias="0.5"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toBottomOf="@+id/cameraImageView"
-                        tools:text="Amr mohammed" />
+                        tools:text="JoJo Lee" />
 
                     <TextView
                         android:id="@+id/email"

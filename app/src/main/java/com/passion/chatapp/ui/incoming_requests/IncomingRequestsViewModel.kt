@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.google.firebase.firestore.FieldValue
-import com.passion.chatapp.Utils.FirestoreUtil
+import com.passion.chatapp.utils.FirestoreUtil
 import com.passion.chatapp.data.model.User
 import com.passion.chatapp.ui.different_user_profile.RECEIVED_REQUEST_ARRAY
 import com.passion.chatapp.ui.different_user_profile.SENT_REQUEST_ARRAY

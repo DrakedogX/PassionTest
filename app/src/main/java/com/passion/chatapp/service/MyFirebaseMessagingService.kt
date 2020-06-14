@@ -4,8 +4,8 @@ import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.iid.FirebaseInstanceId
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
-import com.passion.chatapp.Utils.AuthUtil
-import com.passion.chatapp.Utils.FirestoreUtil
+import com.passion.chatapp.utils.AuthUtil
+import com.passion.chatapp.utils.FirestoreUtil
 
 class MyFirebaseMessagingService : FirebaseMessagingService() {
 

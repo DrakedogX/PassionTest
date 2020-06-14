@@ -11,7 +11,7 @@ import com.bumptech.glide.request.RequestOptions
 import com.google.android.material.button.MaterialButton
 import com.google.firebase.Timestamp
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.LoadState
+import com.passion.chatapp.utils.LoadState
 import com.passion.chatapp.data.model.ChatParticipant
 import com.passion.chatapp.data.model.User
 

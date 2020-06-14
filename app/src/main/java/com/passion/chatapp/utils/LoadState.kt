@@ -1,4 +1,4 @@
-package com.passion.chatapp.Utils
+package com.passion.chatapp.utils
 
 class ErrorMessage {
     companion object {

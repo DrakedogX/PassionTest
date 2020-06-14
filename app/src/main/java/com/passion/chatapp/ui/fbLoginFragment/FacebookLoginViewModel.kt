@@ -3,9 +3,9 @@ package com.passion.chatapp.ui.fbLoginFragment
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.passion.chatapp.Utils.ErrorMessage
-import com.passion.chatapp.Utils.FirestoreUtil
-import com.passion.chatapp.Utils.LoadState
+import com.passion.chatapp.utils.ErrorMessage
+import com.passion.chatapp.utils.FirestoreUtil
+import com.passion.chatapp.utils.LoadState
 import com.passion.chatapp.data.model.User
 import com.facebook.AccessToken
 import com.google.firebase.auth.FacebookAuthProvider

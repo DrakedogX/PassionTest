@@ -8,7 +8,7 @@ import androidx.lifecycle.MutableLiveData
 import com.bumptech.glide.Glide
 import com.bumptech.glide.RequestBuilder
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.AuthUtil
+import com.passion.chatapp.utils.AuthUtil
 import com.passion.chatapp.ui.incoming_requests.FRIENDS
 
 import com.google.firebase.firestore.FieldValue

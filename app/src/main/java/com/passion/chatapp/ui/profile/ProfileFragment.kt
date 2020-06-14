@@ -23,10 +23,10 @@ import com.bumptech.glide.request.RequestOptions
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.gson.Gson
 import com.passion.chatapp.R
-import com.passion.chatapp.Utils.CLICKED_USER
-import com.passion.chatapp.Utils.LOGGED_USER
-import com.passion.chatapp.Utils.LoadState
-import com.passion.chatapp.Utils.eventbus_events.KeyboardEvent
+import com.passion.chatapp.utils.CLICKED_USER
+import com.passion.chatapp.utils.LOGGED_USER
+import com.passion.chatapp.utils.LoadState
+import com.passion.chatapp.utils.eventbus_events.KeyboardEvent
 import com.passion.chatapp.data.model.User
 import com.passion.chatapp.databinding.ProfileFragmentBinding
 import com.passion.chatapp.ui.main_activity.SharedViewModel

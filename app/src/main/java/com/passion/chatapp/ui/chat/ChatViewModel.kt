@@ -10,8 +10,8 @@ import com.google.firebase.firestore.SetOptions
 import com.google.firebase.storage.StorageReference
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.passion.chatapp.Utils.FirestoreUtil
-import com.passion.chatapp.Utils.StorageUtil
+import com.passion.chatapp.utils.FirestoreUtil
+import com.passion.chatapp.utils.StorageUtil
 import com.passion.chatapp.data.model.*
 import java.io.File
 import java.util.*
