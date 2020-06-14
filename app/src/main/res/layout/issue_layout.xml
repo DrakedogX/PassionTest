@@ -46,7 +46,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/lottieAnimationView"
-                tools:text="Something went wrong, check connection and retry." />
+                tools:text="오류가 발생하였습니다. \n인터넷 연결을 확인하여주세요." />
 
             <ImageView
                 android:id="@+id/cancelImage"
